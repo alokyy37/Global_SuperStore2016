@@ -1,6 +1,6 @@
 # Global SuperStore 2016-Dashboard
 
-### Dashboard Link : https://app.powerbi.com/links/9zbDQvzM9x?ctid=acc8e57f-9861-4109-860d-46817fa856d0&pbi_source=linkShare
+### Dashboard Link : [https://app.powerbi.com/links/9zbDQvzM9x?ctid=acc8e57f-9861-4109-860d-46817fa856d0&pbi_source=linkShare](https://app.powerbi.com/view?r=eyJrIjoiNzdlZGYyNzctNjFiMi00Njk2LWI2Y2MtMDkyNzU1NTI0MmJkIiwidCI6ImFjYzhlNTdmLTk4NjEtNDEwOS04NjBkLTQ2ODE3ZmE4NTZkMCJ9)
 
 ## Problem Statement
 
